@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Civil Engineering",
+    "code": "01"
+  },
+  {
+    "name": "Electrical & Electronics Engineering",
+    "code": "02"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "code": "03"
+  },
+  {
+    "name": "Electronics & Communication Engineering",
+    "code": "04"
+  },
+  {
+    "name": "Computer Science & Engineering",
+    "code": "05"
+  },
+  {
+    "name": "Chemical Engineering",
+    "code": "08"
+  },
+  {
+    "name": "Electronics & Instrumentation Engineering",
+    "code": "10"
+  },
+  {
+    "name": "Biomedical Engineering",
+    "code": "11"
+  },
+  {
+    "name": "Information Technology",
+    "code": "12"
+  },
+  {
+    "name": "Electronics & Control Engineering",
+    "code": "13"
+  },
+  {
+    "name": "Electronics & Computer Engineering",
+    "code": "19"
+  },
+  {
+    "name": "Aeronautical Engineering",
+    "code": "21"
+  },
+  {
+    "name": "Instrumentation & Control Engineering",
+    "code": "22"
+  },
+  {
+    "name": "Bio Technology",
+    "code": "23"
+  },
+  {
+    "name": "Mining Engineering",
+    "code": "25"
+  },
+  {
+    "name": "Mining Machinery",
+    "code": "26"
+  },
+  {
+    "name": "Petroleum Engineering",
+    "code": "27"
+  },
+  {
+    "name": "Civil and Environmental Engineering",
+    "code": "28"
+  },
+  {
+    "name": "Mechanical Engineering( MATERIAL SCIENCE AND NANO TECHNOLOGY)",
+    "code": "29"
+  },
+  {
+    "name": "Agriculture Engineering",
+    "code": "30"
+  },
+  {
+    "name": "Computer science & technology",
+    "code": "31"
+  },
+  {
+    "name": "Computer Science & Business Systems",
+    "code": "32"
+  },
+  {
+    "name": "Computer Science & Information Technology",
+    "code": "33"
+  },
+  {
+    "name": "Information Technology and Engineering",
+    "code": "34"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "code": "35"
+  },
+  {
+    "name": "Computer Science and Technology",
+    "code": "36"
+  },
+  {
+    "name": "Computer Engineering (Software Engineering)",
+    "code": "56"
+  },
+  {
+    "name": "Computer Science and Engineering (Cyber Security)",
+    "code": "62"
+  },
+  {
+    "name": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+    "code": "66"
+  },
+  {
+    "name": "Computer Science and Engineering (Data Science)",
+    "code": "67"
+  },
+  {
+    "name": "Computer Science and Engineering (IoT)",
+    "code": "69"
+  },
+  {
+    "name": "Computer Science and Engineering (Networks)",
+    "code": "70"
+  },
+  {
+    "name": "Computer Science and Engineering (Information Security)",
+    "code": "71"
+  },
+  {
+    "name": "Computer Science and Engineering (Artificial Intelligence and Data Science)",
+    "code": "72"
+  },
+  {
+    "name": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+    "code": "73"
+  },
+  {
+    "name": "Computer Science and Design",
+    "code": "74"
+  },
+  {
+    "name": "Automation and Robotics",
+    "code": "75"
+  }
+]
