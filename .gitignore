@@ -1,3 +1,5 @@
 node_modules/
 results/
 results.html
+jsresults/*
+oldres/*
